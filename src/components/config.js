@@ -6,7 +6,7 @@ const config = {
   */
 
   // 🔐 Passcode Page
-  correctPasscode: "0000", // Change this to any 4-digit code (the passcode for access)
+  correctPasscode: "0825", // Change this to any 4-digit code (the passcode for access)
   passcodeTitle: "Enter Passcode", // Title displayed on the passcode entry page
   successMessage: "Yayy!! :)", // Message shown upon successful passcode entry
   redirectMessage: "Redirecting...", // Message displayed while redirecting after success
@@ -18,13 +18,13 @@ const config = {
   trendingTitle: "Trending searches", // Title for the trending searches section
   trendingSearches: [
     "Why is my bf so cute?", // Example trending search query
-    "Why does Rheina love him more?", // Another example query
-    `Rheina's birthdate (coz her bf forgets)`, // A personalized trending search
+    
+    `Ritu's birthdate (coz her bf forgets)`, // A personalized trending search
   ],
   proTip: 'Pro tip: try searching "How long have we been together?" ;)', // Helpful tip for users
 
   // ⏳ Timer Page
-  anniversaryDate: "2024-10-18", // 📅 Set your anniversary date here (used for the timer)
+  anniversaryDate: "2025-01-18", // 📅 Set your anniversary date here (used for the timer)
   timerTitle: "We've been together for:", // Title displayed on the timer page
   timerMessage: "... and still counting <3", // Message shown alongside the timer
   timeUnits: {
@@ -100,22 +100,22 @@ const config = {
     // 📝 Message Recap Page
     messageTitle: "Best Pics!!", // Title for the messages recap page
     messageGallery: [
-      { title: "September 3, 2024", description: "A beautiful day to remember." }, // Message entry
-      { title: "October 5, 2024", description: " #moment" },
-      { title: "December 25, 2024", description: "#love ❤️" },
+      { title: "September 5, 2024", description: "A beautiful day to remember." }, // Message entry
+      { title: "december, 2024", description: " #moment" },
+      { title: "january , 2025", description: "#love ❤️" },
     ],
   
     // 📸 Picture Recap Page
     pictureTitle: "Our Pictures", // Title for the pictures recap page
     pictureGallery: [
-      { title: "January 1, 2024", description: "New Year's Celebration 🎉" }, // Picture entry
-      { title: "February 14, 2024", description: "Valentine's Day 💕" },
-      { title: "March 10, 2024", description: "Beach trip memories 🏖️" },
+      { title: "January , 2025", description: "New Year's Celebration 🎉" }, // Picture entry
+      { title: "February , 2025", description: "Valentine's Day 💕" },
+      { title: "March , 2025", description: "Beach trip memories 🏖️" },
     ],
   
 
   // 💌 Love Letter Page
-  loveLetterMessage: "Hi, I love you so much💖", // Message displayed on the love letter page
+  loveLetterMessage: "mummy, I love you so much💖,", // Message displayed on the love letter page
 
   // 🎇 Closing Page
   closingMessage: "Thank you for everything, my love! 💖 Wishing us many more wonderful years together.", // Closing message displayed
